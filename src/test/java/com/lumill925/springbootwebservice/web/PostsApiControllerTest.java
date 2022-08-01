@@ -1,7 +1,7 @@
 package com.lumill925.springbootwebservice.web;
 
 import com.lumill925.springbootwebservice.domain.posts.Posts;
-import com.lumill925.springbootwebservice.domain.PostsRepository;
+import com.lumill925.springbootwebservice.domain.posts.PostsRepository;
 import com.lumill925.springbootwebservice.web.dto.PostsSaveRequestDto;
 import com.lumill925.springbootwebservice.web.dto.PostsUpdateRequestDto;
 import org.junit.After;
