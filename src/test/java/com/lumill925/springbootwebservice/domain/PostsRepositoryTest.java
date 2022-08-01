@@ -1,6 +1,7 @@
 package com.lumill925.springbootwebservice.domain;
 
 import com.lumill925.springbootwebservice.domain.posts.Posts;
+import com.lumill925.springbootwebservice.domain.posts.PostsRepository;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
